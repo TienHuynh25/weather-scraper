@@ -1,0 +1,3 @@
+Winnipeg 15
+Toronto 14
+Vancouver 15
